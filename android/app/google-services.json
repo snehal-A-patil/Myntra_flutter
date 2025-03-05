@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332631748512",
+    "project_id": "myntra-48d15",
+    "storage_bucket": "myntra-48d15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332631748512:android:2a2e1014219ac5cc6e3ec5",
+        "android_client_info": {
+          "package_name": "com.example.myntra_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEeVCrKbETTlGLaSPmaIE-ta9NDhv5s90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
